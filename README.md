@@ -1,9 +1,11 @@
+# Hello Friend
+![](https://komarev.com/ghpvc/?username=drMy5tery&color=blue&label=Hits)
 <div align="center">
-   <img src="https://github.com/drMy5tery/drMy5tery/blob/main/media/gif/lain%20coding.gif">
-   <p>What isn't Added never happened.</p>
-   <p>Commit is merely a record, you just need to Push that record.</p>
+   <img align="right" src="https://github.com/drMy5tery/drMy5tery/blob/main/media/gif/lain%20coding.gif">
+   </br>
+   <p align="left">What isn't Added never happened.</p>
+   <p align="left">Commit is merely a record, you just need to Push that record.</p>
 </div>
-
 
 <!--
 **drMy5tery/drMy5tery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
