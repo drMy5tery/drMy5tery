@@ -3,7 +3,7 @@
 <div align="center">
    <img align="right" src="https://github.com/drMy5tery/drMy5tery/blob/main/media/gif/lain%20coding.gif">
    </br>
-   <p align="left">What isn't Added never happened.</p>
+   <p align="left">What isn't Added never happened,</p>
    <p align="left">Commit is merely a record, you just need to Push that record.</p>
 </div>
 
