@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](drMy5tery/media/gif/lain coding.gif)
+![](https://github.com/drMy5tery/drMy5tery/blob/main/media/gif/lain%20coding.gif)
 <!--
 **drMy5tery/drMy5tery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
