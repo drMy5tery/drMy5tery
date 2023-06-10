@@ -1,5 +1,7 @@
+<div align="center">
+   ![](https://github.com/drMy5tery/drMy5tery/blob/main/media/gif/lain%20coding.gif)
+</div>
 
-![](https://github.com/drMy5tery/drMy5tery/blob/main/media/gif/lain%20coding.gif)
 ## What isn't Added never happened.Commit is merely a record, you just need to Push that record.
 <!--
 **drMy5tery/drMy5tery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
