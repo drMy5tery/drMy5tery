@@ -1,7 +1,7 @@
 <div align="center">
    <img src="https://github.com/drMy5tery/drMy5tery/blob/main/media/gif/lain%20coding.gif">
-   <h2>What isn't Added never happened.</h2>
-   <h2>Commit is merely a record, you just need to Push that record.</h2>
+   <p>What isn't Added never happened.</p>
+   <p>Commit is merely a record, you just need to Push that record.</p>
 </div>
 
 
