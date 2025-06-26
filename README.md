@@ -4,6 +4,7 @@
    <img src="https://github.com/drMy5tery/drMy5tery/blob/main/media/gif/Lain_code_pixel.gif">
    <h3>What isn't Added never happened,</h3>
    <h3>Commit is merely a record, you just need to Push that record.</h3>
+   <h3> -drMy5tery </h3>
 </div>
 
 <!--
